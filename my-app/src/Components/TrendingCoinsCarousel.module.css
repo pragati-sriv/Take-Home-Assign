@@ -1,0 +1,11 @@
+/* TrendingCoinsCarousel.module.css */
+.swiper-container {
+    padding: 20px;
+  }
+  
+  @media (max-width: 768px) {
+    .swiper-slide {
+      width: 80%; /* Show larger items on smaller screens */
+    }
+  }
+  
